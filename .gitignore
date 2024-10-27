@@ -37,6 +37,7 @@
 /.vs/
 /.vscode/
 /.idea/
+/.cache/
 /c_wrapper/.idea/
 /release/
 /out/
