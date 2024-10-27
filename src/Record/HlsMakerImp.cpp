@@ -10,6 +10,7 @@
 
 #include <ctime>
 #include <sys/stat.h>
+#include <iomanip>
 #include "HlsMakerImp.h"
 #include "Util/util.h"
 #include "Util/uv_errno.h"
