@@ -9,6 +9,7 @@
  */
 
 #include <ctime>
+#include <iomanip> 
 #include <sys/stat.h>
 #include <iomanip>
 #include "HlsMakerImp.h"
